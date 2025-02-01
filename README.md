@@ -1,6 +1,8 @@
 ## Hi there 👋
 🌱 I’m currently learning PHP and WordPress.
 
+![htmlcss](https://img.shields.io/badge/htmlcss-ff8080?style=for-the-badge&logo=htmlcss&logoColor=white>)
+
 <!--
 **1laurenz/1laurenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
